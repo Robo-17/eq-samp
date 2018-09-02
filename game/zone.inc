@@ -1,3 +1,5 @@
+// Unknown author
+
 #include "foreach.inc" // foreach efficient loop
 #include <streamer> // for streaming checkpoints
 #include "playerprogress.inc" // Player Progress Bar EDIT by Southclaw http://pastebin.com/shmadNqj
