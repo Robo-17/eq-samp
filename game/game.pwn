@@ -1,3 +1,6 @@
+// Server-side money tutorial:
+// http://forum.sa-mp.com/showthread.php?t=71136
+
 #include <a_samp>
 
 #include "secure.inc"
