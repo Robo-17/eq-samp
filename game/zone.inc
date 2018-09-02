@@ -1,4 +1,4 @@
-// Unknown author
+// http://forum.sa-mp.com/showthread.php?t=534999
 
 #include "foreach.inc" // foreach efficient loop
 #include <streamer> // for streaming checkpoints
