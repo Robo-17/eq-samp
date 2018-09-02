@@ -1,3 +1,6 @@
+// Anti flood + IP limits
+// http://forum.sa-mp.com/showthread.php?t=321533
+
 #define SECURE_IP_LIMIT 2 // = Max connections from one single IP
 #define SECURE_SAME_IP_CONNECT 4 // = The number of connects from the same IP before banning the flooder
 #define SECURE_TIMELIMIT 3500 // = The time span between connects, adjust it to your own specifications
